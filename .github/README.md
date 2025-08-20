@@ -1,8 +1,3 @@
-<h1 align="center">
-  <br>
-  <img src="https://bpk.vercel.app/static/media/bpk.a151843c.png" alt="BPK AutoExec"></a>
-</h1>
-
 # BPK Autoexec for CS2
 
 A high quality and optimized autoexec configuration file for Counter-Strike 2 (CS2) that enhances the experience with useful scripts, commands, and settings. This config is designed to provide a competitive edge while ensuring a clean and organized setup.
