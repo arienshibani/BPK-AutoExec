@@ -1,6 +1,11 @@
-# BPK-AutoExec
+# BPK Auto Exec
 
-A high quality and optimized autoexec configuration file for Counter-Strike 2 (CS2) that enhances the experience with useful scripts, commands, and settings.
+A high quality `autoexec` configuration chart for Counter-Strike 2 (CS2) with useful scripts, commands, and settings
+
+- 🛒 **Customizable Buy Binds**
+- 🏎️ **Optimized values**
+- 📜 **documented commands**
+- ✨ **Sane defaults**
 
 ## Installation guide
 
@@ -18,7 +23,8 @@ Open the _archive_ and **extract** the contents of the `cfg` folder into where y
 ### 3. Launch your new config 🚀
 **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
 
-## Info
+
+## FAQ
 * If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
     <img width="823" height="528" alt="image" src="https://github.com/user-attachments/assets/4b81a0d0-c77a-412b-ab5c-78d28930931c" />
 
