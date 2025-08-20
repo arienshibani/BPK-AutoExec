@@ -2,9 +2,10 @@
 
 A high quality `autoexec` configuration chart for Counter-Strike 2 (CS2) with useful scripts, commands, and settings
 
-- 🛒 **Customizable Buy Binds**
 - 🏎️ **Optimized values**
-- 📜 **documented commands**
+- 🛒 **Quickbuy binds, scripts and utility functions**
+- 🛠️ **Easy to modify and maintain**
+- 📜 **Documented commands**
 - ✨ **Sane defaults**
 
 ## Installation guide
