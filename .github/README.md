@@ -25,6 +25,41 @@ Open the _archive_ and **extract** the contents of the `cfg` folder into where y
 **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
 
 
+## Buy binds 🛒 
+
+The BPK config comes with an easy to configure [template](https://github.com/arienshibani/BPK-AutoExec/blob/master/cfg/bpk/bind.cfg) for fast buys `bpk/binds.cfg`.
+
+> Simply edit the binds.cfg file after installation to configure it to your own liking.
+
+* Comes with a sane default with the following features.
+  * Fetch all nades, armor + kit + main rifles instantly at round start. 
+  * Suitable for TKL keyboards (does not rely on numpad).
+  * Instantly sell everything with right-shift, for last minute eco round decisions.
+```txt
+                                                                                 
+                                 Buy-binds                                       
+             |-------------|-------------|-------------|--------------|          
+             |      ins    |      home   |     pgup    |              |          
+             |  Flashbang  |   HE-nade   |     Smoke   |  right-shift |          
+             |-------------|-------------|-------------|              |          
+             |      del    |     end     |     pgdn    |  sellbackall |          
+             | kit + Armor |  AK47/M4A1s |   Molotov   |              |          
+             |-------------|-------------|-------------|--------------|          
+                                                                                 
+```
+
+### Util / Script binds ✨
+
+* Utility binds and scripts
+  * `F1`: Clutch mode (mute voicecomms)
+  * `Q`: Enhanced quick swap (Hold down Q for knife, simply release to swap back to previous weapon.) 
+  * `Capslock`: Insta drop C4
+  * `Tab`: Show FPS and `net_graph`, but only when tab is held down.
+  * Insta equip nades (no more nade cycling)
+    * `mouse3`, `mouse4` and `mouse5` for insta equip HE, Flash and Smoke nades.
+      * `x` for molotov + `c` for decoy. 
+
+
 ## FAQ
 * If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
     <img width="823" height="528" alt="image" src="https://github.com/user-attachments/assets/4b81a0d0-c77a-412b-ab5c-78d28930931c" />
