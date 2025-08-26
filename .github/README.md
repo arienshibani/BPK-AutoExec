@@ -60,9 +60,12 @@ The BPK config comes with an easy to configure [template](https://github.com/ari
       * `x` for molotov + `c` for decoy. 
 
 
-## FAQ
+## More info
 * If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
     <img width="823" height="528" alt="image" src="https://github.com/user-attachments/assets/4b81a0d0-c77a-412b-ab5c-78d28930931c" />
-
 * If you are met with ` [InputService] exec: couldn't exec '{*}cfg/autoexec.cfg'` messages in the console, double check that you extracted the `bpk`folder and the `autoexec.cfg` file into the correct folder.
 * For a new desktop or operating system (e.g. Linux) make sure to put (again) in place all the files instead of letting the Steam cloud transfer them automatically.
+* If you want to map your own keys to the binds in the config, follow the 
+* Valve uses SDL scancodes for mapping keys. Use the reference image below to map your own keys.
+  * <img width="640" height="172" alt="image" src="https://github.com/user-attachments/assets/ec538e46-5caa-436e-95a7-578bde2f3500" />
+
