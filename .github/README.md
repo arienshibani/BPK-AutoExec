@@ -2,7 +2,43 @@
 
 A high quality `autoexec` configuration chart for Counter-Strike 2 (CS2) with useful scripts, commands, and settings
 
-- 🏎️ **Optimized values**
+```text
+
+    echo |                                                                                 |
+    echo |     .+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+.     |
+    echo |     .    +---------------------=[ BPK GUI ]=-------------------------+    .     |
+    echo |     .    |                    Version : 26.08.2025                   |    .     |
+    echo |     .    |             github.com/arienshibani/BPK-AutoExec/         |    .     |
+    echo |     .    +-----------------------------------------------------------+    .     |
+    echo |     .+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+.     |
+    echo |                                                                                 |
+    echo |                                    BUY BINDS                                    |
+    echo |                                                                                 | 
+    echo |                 |-------------|-------------|-------------|                     |
+    echo |                 |      ins    |      home   |     pgup    |                     |
+    echo |                 |  Flashbang  |   HE-nade   |     Smoke   |                     |
+    echo |                 |-------------|-------------|-------------|                     |
+    echo |                 |      del    |     end     |     pgdn    |                     |
+    echo |                 | kit + Armor |  AK47/M4A1s |   Molotov   |                     |
+    echo |                 |-------------|-------------|-------------|                     |
+    echo |                                                                                 |
+    echo |                                                                                 |
+    echo |                                  SCRIPS BINDS                                   |
+    echo |                                                                                 |
+    echo |                   CAPSLOCK - Insta drop C4.                                     |
+    echo |                   BACKSPACE - Sellback all purchased items.                     |
+    echo |                   TAB - Show FPS and Latency (and scoreboard).                  |
+    echo |                   right ctrl - Nade practice config.                            |
+    echo |                   F1 - Clutch mode (mute all voice comms for 5 min).            |
+    echo |                                                                                 | 
+    echo |                   Aim Prac: "map_workshop 3070389038 csstats"                   |
+    echo |                   Nade Practice Setup: "exec nadeprac.cfg"                      | 
+    echo |                                                                                 |
+
+
+```
+
+�️ **Optimized values**
 - 🛒 **Quickbuy binds, scripts and utility functions**
 - 🛠️ **Easy to modify and maintain**
 - 📜 **Documented commands**
